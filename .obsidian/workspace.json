@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "e85638fcd2d3f4e4",
   "lastOpenFiles": [
-    "test.md",
-    "docs/index.html",
     "README.md",
-    "index.md",
+    "test.md",
+    ".md",
+    "docs/index.html",
     "docs/모각코/[하계-모각코]-1차-개인목표-및-결과.html",
     "docs/모각코/모각코.html",
     "docs/모각코/[하계-모각코]-4차-개인목표-및-결과.html",
@@ -173,7 +173,6 @@
     "docs/lib/styles/main-styles.css",
     "docs/lib/styles/global-variable-styles.css",
     "docs/lib/styles",
-    "docs/lib/scripts/webpage.js",
     "docs/lib/media/favicon.png",
     "docs/lib/media/874d8b8e340f75575caa.svg",
     "docs/lib/media/3d6c1bdc4d87cde4de67.svg",
