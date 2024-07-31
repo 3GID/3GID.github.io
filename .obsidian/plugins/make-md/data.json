@@ -41,8 +41,9 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Tags",
-    "//docs"
+    "//모각코",
+    "//docs",
+    "//docs/docs/모각코"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

@@ -11,10 +11,8 @@
             "id": "e85638fcd2d3f4e4",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "docs"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -153,11 +151,28 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e85638fcd2d3f4e4",
+  "active": "b8ff0ac96e5efc52",
   "lastOpenFiles": [
-    "README.md",
     "test.md",
+    "README.md",
     "index.md",
+    "모각코/[하계 모각코] 2차 개인목표 및 결과.md",
+    "모각코/[하계 모각코] 1차 개인목표 및 결과.md",
+    "모각코/[하계 모각코] 4차 개인목표 및 결과.md",
+    "모각코/[하계 모각코] 3차 개인목표 및 결과.md",
+    "docs/lib/styles/other-plugins.css",
+    "docs/tags/tags.html",
+    "docs/tags",
+    "Tags/Tags.md",
+    "docs/모각코/모각코.html",
+    "docs/모각코/[하계-모각코]-4차-개인목표-및-결과.html",
+    "docs/모각코/[하계-모각코]-3차-개인목표-및-결과.html",
+    "docs/모각코/[하계-모각코]-1차-개인목표-및-결과.html",
+    "docs/모각코/[하계-모각코]-2차-개인목표-및-결과.html",
+    "docs/모각코",
+    "모각코/모각코.md",
+    "docs/docs.md",
+    "모각코",
     "3.데이터 전처리 과정.md",
     "2. 디지털 신호 처리 과정.md",
     "1. 디지털 신호 처리, 데이터 전처리 정의.md",
@@ -166,16 +181,6 @@
     "무제 파일.md",
     "이름 없는 보드.md",
     "이름 없는 보드 1.md",
-    "docs/lib/search-index.json",
-    "docs/lib/metadata.json",
-    "docs/lib/styles/obsidian.css",
-    "docs/lib/styles/main-styles.css",
-    "docs/lib/styles/global-variable-styles.css",
-    "docs/lib/styles",
-    "docs/lib/scripts/graph-data.js",
-    "docs/lib/scripts/minisearch.js",
-    "docs/lib/scripts/pixi.js",
-    "docs/lib/scripts/tinycolor.js",
     "docs/lib/media/favicon.png",
     "docs/lib/media/3d6c1bdc4d87cde4de67.svg",
     "docs/lib/media/874d8b8e340f75575caa.svg",
