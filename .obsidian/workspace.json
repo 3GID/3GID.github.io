@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a53a2dcc76747b9",
+        "id": "fef5a1cd9c98588e",
         "type": "tabs",
         "children": [
           {
-            "id": "e85638fcd2d3f4e4",
+            "id": "dbe8513912e40e38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "모각코/[2024 하계 모각코 202102536 김동현].md",
+                "file": "모각코/[하계 모각코] 1차 학습 및  결과.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모각코/[2024 하계 모각코 202102536 김동현].md",
+                "file": "모각코/[하계 모각코] 1차 학습 및  결과.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모각코/[2024 하계 모각코 202102536 김동현].md",
+                "file": "모각코/[하계 모각코] 1차 학습 및  결과.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "모각코/[2024 하계 모각코 202102536 김동현].md"
+                "file": "모각코/[하계 모각코] 1차 학습 및  결과.md"
               }
             }
           }
@@ -159,19 +159,27 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e85638fcd2d3f4e4",
+  "active": "dbe8513912e40e38",
   "lastOpenFiles": [
+    "모각코/[하계 모각코] 6차 개인목표 및 결과.md",
+    "docs/모각코/[하계-모각코]-6차-개인목표-및-결과.html",
+    "docs/모각코/[하계-모각코]-5차-개인목표-및-결과.html",
+    "docs/모각코/[하계-모각코]-1차-학습-및-결과.html",
+    "모각코/[하계 모각코] 1차 학습 및  결과.md",
+    "Pasted image 20240801210950.png",
+    "Pasted image 20240801210626.png",
+    "Pasted image 20240801205934.png",
+    "모각코/[2024 하계 모각코 202102536 김동현].md",
+    "모각코/[하계 모각코] 2차 개인목표 및 결과.md",
+    "모각코/[하계 모각코] 3차 개인목표 및 결과.md",
+    "모각코/[하계 모각코] 5차 개인목표 및 결과.md",
+    "모각코/[하계 모각코] 4차 개인목표 및 결과.md",
     "docs/lib/styles/other-plugins.css",
     "Vault.md",
     "docs/vault.html",
     "docs/tags/tags.html",
     "docs/tags",
     "docs/모각코/[2024-하계-모각코-202102536-김동현].html",
-    "모각코/[2024 하계 모각코 202102536 김동현].md",
-    "모각코/[하계 모각코] 4차 개인목표 및 결과.md",
-    "모각코/[하계 모각코] 3차 개인목표 및 결과.md",
-    "모각코/[하계 모각코] 2차 개인목표 및 결과.md",
-    "모각코/[하계 모각코] 1차 개인목표 및 결과.md",
     "test.md",
     "index.md",
     "README.md",
@@ -180,10 +188,6 @@
     "모각코/모각코.md",
     "docs/모각코/모각코.html",
     "docs/모각코/[하계-모각코]-4차-개인목표-및-결과.html",
-    "docs/모각코/[하계-모각코]-3차-개인목표-및-결과.html",
-    "docs/모각코/[하계-모각코]-2차-개인목표-및-결과.html",
-    "docs/모각코/[하계-모각코]-1차-개인목표-및-결과.html",
-    "docs/모각코",
     "docs/lib/media/favicon.png",
     "docs/lib/media/874d8b8e340f75575caa.svg",
     "docs/lib/media/3d6c1bdc4d87cde4de67.svg",
