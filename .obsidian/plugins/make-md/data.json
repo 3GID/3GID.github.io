@@ -42,8 +42,8 @@
   "expandedSpaces": [
     "//docs/docs/모각코",
     "//모각코",
-    "//docs",
-    "/"
+    "/",
+    "//docs"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
