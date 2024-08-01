@@ -1,4 +1,8 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Speekrr.github.io]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Speekrr.github.io</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 01 Aug 2024 08:40:20 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 01 Aug 2024 08:40:20 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[index]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Speekrr.github.io]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Speekrr.github.io</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 01 Aug 2024 08:42:08 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 01 Aug 2024 08:42:08 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[[하계 모각코] 1차 개인목표 및 결과]]></title><description><![CDATA[ 
+ ]]></description><link>모각코\[하계-모각코]-1차-개인목표-및-결과.html</link><guid isPermaLink="false">모각코/[하계 모각코] 1차 개인목표 및 결과.md</guid><pubDate>Thu, 01 Aug 2024 08:41:39 GMT</pubDate></item><item><title><![CDATA[[하계 모각코] 2차 개인목표 및 결과]]></title><description><![CDATA[ 
+ ]]></description><link>모각코\[하계-모각코]-2차-개인목표-및-결과.html</link><guid isPermaLink="false">모각코/[하계 모각코] 2차 개인목표 및 결과.md</guid><pubDate>Thu, 01 Aug 2024 08:41:43 GMT</pubDate></item><item><title><![CDATA[[하계 모각코] 3차 개인목표 및 결과]]></title><description><![CDATA[ 
+ ]]></description><link>모각코\[하계-모각코]-3차-개인목표-및-결과.html</link><guid isPermaLink="false">모각코/[하계 모각코] 3차 개인목표 및 결과.md</guid><pubDate>Thu, 01 Aug 2024 08:41:45 GMT</pubDate></item><item><title><![CDATA[[하계 모각코] 4차 개인목표 및 결과]]></title><description><![CDATA[ 
+ ]]></description><link>모각코\[하계-모각코]-4차-개인목표-및-결과.html</link><guid isPermaLink="false">모각코/[하계 모각코] 4차 개인목표 및 결과.md</guid><pubDate>Thu, 01 Aug 2024 08:41:47 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
  <br><br>=======<br>
 sticker: emoji//1f643<br><br>Main Page<br>
 
@@ -14,7 +18,7 @@ sticker: emoji//1f643<br><br>Main Page<br>
 
 
 
-]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Thu, 01 Aug 2024 08:39:33 GMT</pubDate></item><item><title><![CDATA[test]]></title><description><![CDATA[ 
+]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Thu, 01 Aug 2024 08:40:20 GMT</pubDate></item><item><title><![CDATA[test]]></title><description><![CDATA[ 
  <br>안녕하세요!<br>
 테스트 페이지입니다.]]></description><link>test.html</link><guid isPermaLink="false">test.md</guid><pubDate>Wed, 26 Jun 2024 14:10:59 GMT</pubDate></item><item><title><![CDATA[Obsidian template for using github.io]]></title><description><![CDATA[ 
  <br>]]></description><link>readme.html</link><guid isPermaLink="false">README.md</guid><pubDate>Wed, 26 Jun 2024 12:40:01 GMT</pubDate></item></channel></rss>
