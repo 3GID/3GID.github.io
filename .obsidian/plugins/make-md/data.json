@@ -40,10 +40,11 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//docs",
+    "//docs/docs/모각코",
+    "//Tags",
     "//모각코",
-    "//docs/docs/모각코"
+    "/",
+    "//docs"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -90,7 +91,7 @@
   "showSpacePinIcon": true,
   "minimalFix": false,
   "experimental": false,
-  "systemName": "Blog",
+  "systemName": "3DID",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
   "actionMaxSteps": 100
