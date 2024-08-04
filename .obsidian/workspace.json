@@ -11,9 +11,11 @@
             "id": "dbe8513912e40e38",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240804235256.png"
+                "file": "모각코/[하계 모각코] 1차 학습 및  결과.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240804235256.png",
+                "file": "모각코/[하계 모각코] 1차 학습 및  결과.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240804235256.png",
+                "file": "모각코/[하계 모각코] 1차 학습 및  결과.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240804235256.png"
+                "file": "모각코/[하계 모각코] 1차 학습 및  결과.md"
               }
             }
           }
@@ -159,9 +161,9 @@
   },
   "active": "dbe8513912e40e38",
   "lastOpenFiles": [
-    "모각코/[하계 모각코] 2차 학습 및 결과.md",
-    "Pasted image 20240804235256.png",
     "모각코/[하계 모각코] 1차 학습 및  결과.md",
+    "Pasted image 20240804235256.png",
+    "모각코/[하계 모각코] 2차 학습 및 결과.md",
     "docs/lib/media/2.2.md",
     "Pasted image 20240804235704.png",
     "docs/lib/media/2.1.md",
