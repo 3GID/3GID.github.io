@@ -43,7 +43,10 @@
     "//Tags",
     "/",
     "//모각코",
-    "//docs"
+    "//docs",
+    "//docs/docs/lib",
+    "//docs/docs/lib/docs/lib/media",
+    "//images"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
