@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "모각코/[하계 모각코] 1차 학습 및  결과.md",
+                "file": "모각코/[하계 모각코] 3차 학습 및 결과.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b8b53b513e17a2f3",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모각코/[하계 모각코] 1차 학습 및  결과.md",
+                "file": "모각코/[하계 모각코] 3차 학습 및 결과.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모각코/[하계 모각코] 1차 학습 및  결과.md",
+                "file": "모각코/[하계 모각코] 3차 학습 및 결과.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "모각코/[하계 모각코] 1차 학습 및  결과.md"
+                "file": "모각코/[하계 모각코] 3차 학습 및 결과.md"
               }
             }
           }
@@ -161,23 +162,24 @@
   },
   "active": "dbe8513912e40e38",
   "lastOpenFiles": [
-    "모각코/[하계 모각코] 1차 학습 및  결과.md",
-    "Pasted image 20240804235256.png",
     "모각코/[하계 모각코] 2차 학습 및 결과.md",
+    "모각코/[하계 모각코] 3차 학습 및 결과.md",
+    "모각코/[하계 모각코] 1차 학습 및  결과.md",
+    "images/1.1.png",
+    "images/1.2.png",
+    "images/2,2.png",
+    "images/2.1.png",
+    "images/1.3.png",
+    "Pasted.md",
     "docs/lib/media/2.2.md",
-    "Pasted image 20240804235704.png",
     "docs/lib/media/2.1.md",
-    "Pasted image 20240804235638.png",
     "docs/lib/media/1.3.md",
-    "Pasted image 20240804235413.png",
     "docs/lib/media/1.2.md",
-    "Pasted image 20240804235336.png",
     "docs/lib/media/1.1.md",
     "images",
     "새 폴더",
     "모각코/[하계 모각코] 6차 학습 및 결과.md",
     "모각코/[하계 모각코] 5차 학습 및 결과.md",
-    "모각코/[하계 모각코] 3차 학습 및 결과.md",
     "모각코/[하계 모각코] 4차 학습 및 결과.md",
     "docs/모각코/[하계-모각코]-6차-학습-및-결과.html",
     "docs/모각코/[하계-모각코]-5차-학습-및-결과.html",
@@ -204,7 +206,6 @@
     "3.데이터 전처리 과정.md",
     "2. 디지털 신호 처리 과정.md",
     "1. 디지털 신호 처리, 데이터 전처리 정의.md",
-    "2024-07-30.md",
-    "이름 없는 보드.md"
+    "2024-07-30.md"
   ]
 }
