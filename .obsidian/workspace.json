@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "모각코/[하계 모각코] 3차 학습 및 결과.md",
+                "file": "모각코/[하계 모각코] 4차 학습 및 결과.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b8b53b513e17a2f3",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모각코/[하계 모각코] 3차 학습 및 결과.md",
+                "file": "모각코/[하계 모각코] 4차 학습 및 결과.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모각코/[하계 모각코] 3차 학습 및 결과.md",
+                "file": "모각코/[하계 모각코] 4차 학습 및 결과.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "모각코/[하계 모각코] 3차 학습 및 결과.md"
+                "file": "모각코/[하계 모각코] 4차 학습 및 결과.md"
               }
             }
           }
@@ -162,8 +161,9 @@
   },
   "active": "dbe8513912e40e38",
   "lastOpenFiles": [
-    "모각코/[하계 모각코] 2차 학습 및 결과.md",
+    "모각코/[하계 모각코] 4차 학습 및 결과.md",
     "모각코/[하계 모각코] 3차 학습 및 결과.md",
+    "모각코/[하계 모각코] 2차 학습 및 결과.md",
     "모각코/[하계 모각코] 1차 학습 및  결과.md",
     "images/1.1.png",
     "images/1.2.png",
@@ -180,7 +180,6 @@
     "새 폴더",
     "모각코/[하계 모각코] 6차 학습 및 결과.md",
     "모각코/[하계 모각코] 5차 학습 및 결과.md",
-    "모각코/[하계 모각코] 4차 학습 및 결과.md",
     "docs/모각코/[하계-모각코]-6차-학습-및-결과.html",
     "docs/모각코/[하계-모각코]-5차-학습-및-결과.html",
     "docs/모각코/[하계-모각코]-4차-학습-및-결과.html",
