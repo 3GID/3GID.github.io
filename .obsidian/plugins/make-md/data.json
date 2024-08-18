@@ -41,12 +41,12 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "//Tags",
-    "/",
     "//모각코",
     "//docs",
     "//docs/docs/lib",
     "//docs/docs/lib/docs/lib/media",
-    "//images"
+    "//images",
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
