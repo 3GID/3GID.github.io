@@ -11,9 +11,11 @@
             "id": "dbe8513912e40e38",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "/"
+                "file": "모각코/모각코 최종 회고.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "모각코/모각코 최종 회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "모각코/모각코 최종 회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "모각코/모각코 최종 회고.md"
+              }
             }
           }
         ],
@@ -155,12 +161,14 @@
   },
   "active": "dbe8513912e40e38",
   "lastOpenFiles": [
-    "모각코/[하계 모각코] 6차 학습 및 결과.md",
-    "모각코/[하계 모각코] 1차 학습 및  결과.md",
+    "docs/모각코/모각코-최종-회고.html",
+    "모각코/모각코 최종 회고.md",
     "모각코/[하계 모각코] 5차 학습 및 결과.md",
-    "모각코/[하계 모각코] 2차 학습 및 결과.md",
+    "모각코/[하계 모각코] 6차 학습 및 결과.md",
     "모각코/[하계 모각코] 4차 학습 및 결과.md",
     "모각코/[하계 모각코] 3차 학습 및 결과.md",
+    "모각코/[하계 모각코] 2차 학습 및 결과.md",
+    "모각코/[하계 모각코] 1차 학습 및  결과.md",
     "images/1.1.png",
     "images/1.2.png",
     "images/2,2.png",
@@ -198,7 +206,6 @@
     "docs/docs.md",
     "3.데이터 전처리 과정.md",
     "2. 디지털 신호 처리 과정.md",
-    "1. 디지털 신호 처리, 데이터 전처리 정의.md",
-    "2024-07-30.md"
+    "1. 디지털 신호 처리, 데이터 전처리 정의.md"
   ]
 }
