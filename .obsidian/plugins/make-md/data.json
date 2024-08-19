@@ -40,14 +40,13 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//Tags",
-    "//모각코",
-    "//docs",
-    "//docs/docs/lib",
     "//docs/docs/lib/docs/lib/media",
     "//images",
     "/",
-    "//docs/docs/모각코"
+    "//Tags",
+    "//docs",
+    "//docs/docs/모각코",
+    "//모각코"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
